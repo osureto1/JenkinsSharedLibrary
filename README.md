@@ -1,4 +1,4 @@
-//# JenkinsSharedLibrary
+# JenkinsSharedLibrary
 # JenkinsSharedLibrary
 # JenkinsSharedLibrary
 # JenkinsSharedLibrary
